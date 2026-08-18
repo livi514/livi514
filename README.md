@@ -24,17 +24,35 @@ I'm motivated by creating software that is reliable, accessible, and genuinely h
 
 ## Experience
 
-**IEUK 2026 — Technology & Engineering Stream**, Bright Network
-Jun 2026 – Jul 2026 · Remote
+<table>
+<tr>
+<td width="140"><sub><strong>Jun – Jul 2026</strong></sub></td>
+<td>
+
+**IEUK 2026 — Technology & Engineering Stream** · Bright Network · Remote
 Completed employer-led sessions from organisations including Google, Kier, Arup, Lloyds Banking Group, and GCHQ. Designed wireframes and a pitch deck for an AI-powered grocery-inventory and recipe-generation feature, and produced a PDR extract including user stories, acceptance criteria, and KPIs.
 
-**ELEvate — Grand Challenges 2026, Final Showcase**, University of Exeter
-Jun 2026 – Jul 2026 · Exeter, England
+</td>
+</tr>
+<tr>
+<td width="140"><sub><strong>Jun – Jul 2026</strong></sub></td>
+<td>
+
+**ELEvate — Grand Challenges 2026, Final Showcase** · University of Exeter · Exeter, England
 Selected for the final showcase across all Education Innovation subgroups. Worked in a multidisciplinary team to research and design a concept improving how feedback is delivered to students, based on analysis of the Exeter Student Guild's 2025 Feedback Report and primary research. Designed a prototype for a university-wide office-hours booking system.
 
-**Summer Intern**, Whitestein Technologies
-Sep 2025 – Oct 2025 · Bratislava, Slovakia
+</td>
+</tr>
+<tr>
+<td width="140"><sub><strong>Sep – Oct 2025</strong></sub></td>
+<td>
+
+**Summer Intern** · Whitestein Technologies · Bratislava, Slovakia
 Participated in daily scrum meetings, reviewed and improved RESTful API code and documentation, and researched and wrote internal best-practice guidelines for API development.
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -50,6 +68,10 @@ Participated in daily scrum meetings, reviewed and improved RESTful API code and
 <br>
 
 ## Toolkit
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **Testing & QA**
 
@@ -67,6 +89,9 @@ Participated in daily scrum meetings, reviewed and improved RESTful API code and
 ![Django](https://img.shields.io/badge/Django-5C7A99?style=flat-square&logoColor=A8B9C7)
 ![Flutter](https://img.shields.io/badge/Flutter-5C7A99?style=flat-square&logoColor=A8B9C7)
 
+</td>
+<td valign="top" width="50%">
+
 **Data & Geospatial**
 
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-7A93AC?style=flat-square&logoColor=1B2733)
@@ -83,13 +108,32 @@ Participated in daily scrum meetings, reviewed and improved RESTful API code and
 ![Stakeholder Communication](https://img.shields.io/badge/Stakeholder_Communication-A8B9C7?style=flat-square&logoColor=1B2733)
 ![Financial Modelling](https://img.shields.io/badge/Financial_Modelling-A8B9C7?style=flat-square&logoColor=1B2733)
 
+</td>
+</tr>
+</table>
+
 <br>
 
 ## GitHub Activity
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=livi514&show_icons=true&theme=transparent&hide_border=true&title_color=3B4B5C&text_color=5C7A99&icon_color=7A93AC" width="100%"/>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livi514&layout=pie&theme=transparent&hide_border=true&title_color=3B4B5C&text_color=5C7A99" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=livi514&theme=transparent&hide_border=true&background=00000000&stroke=7A93AC&ring=5C7A99&fire=5C7A99&currStreakLabel=3B4B5C&sideLabels=3B4B5C&dates=A8B9C7" height="300"/>
+<img src="https://streak-stats.demolab.com/?user=livi514&theme=transparent&hide_border=true&background=00000000&stroke=7A93AC&ring=5C7A99&fire=5C7A99&currStreakLabel=3B4B5C&sideLabels=3B4B5C&dates=A8B9C7" height="200"/>
 
 </div>
 
@@ -97,29 +141,14 @@ Participated in daily scrum meetings, reviewed and improved RESTful API code and
 
 ## Leadership and Volunteering
 
-**President**, Friends of Palestine Society, University of Exeter
-`Jun 2026 – Present`
-Leading committee handover, onboarding, and risk assessment for the new academic year.
-
-**Treasurer**, Hide and Seek Society, University of Exeter
-`Jun 2026 – Present`
-Building financial models for society pricing and budgeting.
-
-**Publicity Officer**, Hide and Seek Society, University of Exeter
-`Jun 2025 – Jun 2026`
-Designing publicity materials, running events, contributing to event planning and society decisions.
-
-**Publicity Coordinator**, Friends of Palestine Society, University of Exeter
-`Jun 2025 – Jun 2026`
-Designing publicity materials, focusing on campaign awareness and community engagement alongside event promotion.
-
-**Charity Shop Volunteer**, The Salvation Army
-`Jul 2025 – Aug 2025`
-Delivered friendly customer service and organised stock efficiently.
-
-**Computer Science Ambassador**, Bournemouth School for Girls
-`Nov 2022 – May 2024`
-Supporting departmental open days.
+| Role | Organisation | Dates | Details |
+|:--|:--|:--|:--|
+| President | Friends of Palestine Society, University of Exeter | Jun 2026 – Present | Leading committee handover, onboarding, and risk assessment for the new academic year |
+| Treasurer | Hide and Seek Society, University of Exeter | Jun 2026 – Present | Building financial models for society pricing and budgeting |
+| Publicity Officer | Hide and Seek Society, University of Exeter | Jun 2025 – Jun 2026 | Designing publicity materials, running events, contributing to event planning and society decisions |
+| Publicity Coordinator | Friends of Palestine Society, University of Exeter | Jun 2025 – Jun 2026 | Designing publicity materials, focusing on campaign awareness and community engagement alongside event promotion |
+| Charity Shop Volunteer | The Salvation Army | Jul 2025 – Aug 2025 | Delivered friendly customer service and organised stock efficiently |
+| Computer Science Ambassador | Bournemouth School for Girls | Nov 2022 – May 2024 | Supporting departmental open days |
 
 <br>
 
