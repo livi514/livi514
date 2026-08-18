@@ -51,20 +51,43 @@ Participated in daily scrum meetings, reviewed and improved RESTful API code and
 
 ## Toolkit
 
-```
-testing & qa        pytest · Playwright · JUnit · Django Testing Framework · GitHub Actions · CI/CD
-languages            Python · Java · Django · Flutter
-data & geospatial     GeoPandas · pandas · NumPy · Matplotlib · scikit-learn
-soft skills          requirements analysis · cross-functional collaboration
-                     technical documentation · stakeholder communication · financial modelling
-```
+**Testing & QA**
+
+![pytest](https://img.shields.io/badge/pytest-3B4B5C?style=flat-square&logoColor=A8B9C7)
+![Playwright](https://img.shields.io/badge/Playwright-3B4B5C?style=flat-square&logoColor=A8B9C7)
+![JUnit](https://img.shields.io/badge/JUnit-3B4B5C?style=flat-square&logoColor=A8B9C7)
+![Django Testing Framework](https://img.shields.io/badge/Django_Testing_Framework-3B4B5C?style=flat-square&logoColor=A8B9C7)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B4B5C?style=flat-square&logoColor=A8B9C7)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-3B4B5C?style=flat-square&logoColor=A8B9C7)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-5C7A99?style=flat-square&logoColor=A8B9C7)
+![Java](https://img.shields.io/badge/Java-5C7A99?style=flat-square&logoColor=A8B9C7)
+![Django](https://img.shields.io/badge/Django-5C7A99?style=flat-square&logoColor=A8B9C7)
+![Flutter](https://img.shields.io/badge/Flutter-5C7A99?style=flat-square&logoColor=A8B9C7)
+
+**Data & Geospatial**
+
+![GeoPandas](https://img.shields.io/badge/GeoPandas-7A93AC?style=flat-square&logoColor=1B2733)
+![pandas](https://img.shields.io/badge/pandas-7A93AC?style=flat-square&logoColor=1B2733)
+![NumPy](https://img.shields.io/badge/NumPy-7A93AC?style=flat-square&logoColor=1B2733)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-7A93AC?style=flat-square&logoColor=1B2733)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-7A93AC?style=flat-square&logoColor=1B2733)
+
+**Soft Skills**
+
+![Requirements Analysis](https://img.shields.io/badge/Requirements_Analysis-A8B9C7?style=flat-square&logoColor=1B2733)
+![Cross-functional Collaboration](https://img.shields.io/badge/Cross--functional_Collaboration-A8B9C7?style=flat-square&logoColor=1B2733)
+![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-A8B9C7?style=flat-square&logoColor=1B2733)
+![Stakeholder Communication](https://img.shields.io/badge/Stakeholder_Communication-A8B9C7?style=flat-square&logoColor=1B2733)
+![Financial Modelling](https://img.shields.io/badge/Financial_Modelling-A8B9C7?style=flat-square&logoColor=1B2733)
 
 <br>
 
 ## GitHub Activity
 
 <div align="center">
-
 
 <img src="https://streak-stats.demolab.com/?user=livi514&theme=transparent&hide_border=true&background=00000000&stroke=7A93AC&ring=5C7A99&fire=5C7A99&currStreakLabel=3B4B5C&sideLabels=3B4B5C&dates=A8B9C7" height="300"/>
 
