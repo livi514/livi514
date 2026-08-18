@@ -22,23 +22,23 @@ I'm motivated by creating software that is reliable, accessible, and genuinely h
 
 <br>
 
-## `experience`
+## Experience
 
 **IEUK 2026 — Technology & Engineering Stream**, Bright Network
-`Jun 2026 – Jul 2026 · Remote`
+Jun 2026 – Jul 2026 · Remote
 Completed employer-led sessions from organisations including Google, Kier, Arup, Lloyds Banking Group, and GCHQ. Designed wireframes and a pitch deck for an AI-powered grocery-inventory and recipe-generation feature, and produced a PDR extract including user stories, acceptance criteria, and KPIs.
 
 **ELEvate — Grand Challenges 2026, Final Showcase**, University of Exeter
-`Jun 2026 – Jul 2026 · Exeter, England`
+Jun 2026 – Jul 2026 · Exeter, England
 Selected for the final showcase across all Education Innovation subgroups. Worked in a multidisciplinary team to research and design a concept improving how feedback is delivered to students, based on analysis of the Exeter Student Guild's 2025 Feedback Report and primary research. Designed a prototype for a university-wide office-hours booking system.
 
 **Summer Intern**, Whitestein Technologies
-`Sep 2025 – Oct 2025 · Bratislava, Slovakia`
+Sep 2025 – Oct 2025 · Bratislava, Slovakia
 Participated in daily scrum meetings, reviewed and improved RESTful API code and documentation, and researched and wrote internal best-practice guidelines for API development.
 
 <br>
 
-## `projects`
+## Projects
 
 | Repository | Description | Stack |
 |:--|:--|:--|
