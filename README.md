@@ -1,19 +1,18 @@
 <div align="center">
 
-![header](header.png)
+![alt text](header.png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3B4B5C?style=for-the-badge&logo=linkedin&logoColor=A8B9C7)](https://www.linkedin.com/in/l%C3%ADvia-b%C3%A1nyai-0461b8287/)
 [![Email](https://img.shields.io/badge/Email-5C7A99?style=for-the-badge&logo=gmail&logoColor=A8B9C7)](mailto:livia5banyai@gmail.com)
-
 </div>
 
 <br>
 
-## `about`
+## About
 
 I enjoy understanding how systems behave under the surface, and I'm currently building a QA automation portfolio using Python and Playwright to put that into practice.
 
-I've led QA in team projects: reviewing requirements from a QA perspective before development began, designing manual and automated tests with pytest and Django's testing framework, and flagging usability concerns alongside strict defect identification — from validating access control in Django to testing multithreaded Java programs with JUnit for concurrency bugs. In individual projects, I've focused on refining user flows, improving accessibility, and ensuring stable performance across devices and themes, including debugging UI issues in Flutter.
+I've led QA in team projects: reviewing requirements from a QA perspective before development began, designing manual and automated tests with pytest and Django's testing framework, and flagging usability concerns alongside strict defect identification, from validating access control in Django to testing multithreaded Java programs with JUnit for concurrency bugs. In individual projects, I've focused on refining user flows, improving accessibility, and ensuring stable performance across devices and themes, including debugging UI issues in Flutter.
 
 Alongside this, I have experience in data science and geospatial analysis, using GeoPandas and Python's data stack (pandas, NumPy, Matplotlib, scikit-learn) to work with public datasets.
 
@@ -23,100 +22,81 @@ I'm motivated by creating software that is reliable, accessible, and genuinely h
 
 <br>
 
-## `experience`
+## Experience
+
+| Dates | Role | Details |
+|:--|:--|:--|
+| Jun 2026 | **IEUK 2026 — Technology & Engineering Stream** · Bright Network · Remote | Completed employer-led sessions from organisations including Google, Kier, Arup, Lloyds Banking Group, and GCHQ. Designed wireframes and a pitch deck for an AI-powered grocery-inventory and recipe-generation feature, and produced a PDR extract including user stories, acceptance criteria, and KPIs. |
+| Jun 2026 | **ELEvate — Grand Challenges 2026, Final Showcase** · University of Exeter · Exeter, England | Selected for the final showcase across all Education Innovation subgroups. Worked in a multidisciplinary team to research and design a concept improving how feedback is delivered to students, based on analysis of the Exeter Student Guild's 2025 Feedback Report and primary research. Designed a prototype for a university-wide office-hours booking system. |
+| Sep 2025 | **Summer Intern** · Whitestein Technologies · Bratislava, Slovakia | Participated in daily scrum meetings, reviewed and improved RESTful API code and documentation, and researched and wrote internal best-practice guidelines for API development. |
+
+<br>
+
+## Projects
+
+| Repository | Description | Stack |
+|:--|:--|:--|
+| **[saucedemo-playwright-tests](https://github.com/livi514/saucedemo-playwright-tests)** | End-to-end UI test suite with cross-platform CI matrix and scheduled runs | Python, pytest, Playwright, GitHub Actions |
+| **[jsonplaceholder-api-tests](https://github.com/livi514/jsonplaceholder-api-tests)** | API test suite covering boundary value analysis against a live public API | Python, pytest, requests |
+| **[QA Portfolio](https://github.com/livi514/QA-portfolio)** | Central portfolio documenting CI/CD pipeline improvements and testing methodology | Python, GitHub Actions |
+| **[Team Project: Food Bundle Marketplace](https://github.com/BrianStadnicki/COM2020-team-project)** | Led QA for a Django-based online marketplace | Python, Django |
+
+<br>
+
+## Toolkit
 
 <div align="center">
+<table>
+<tr>
+<td align="center" width="25%"><sub><strong>TESTING & QA</strong></sub></td>
+<td align="center" width="25%"><sub><strong>LANGUAGES AND FRAMEWORKS</strong></sub></td>
+<td align="center" width="25%"><sub><strong>DATA & GEOSPATIAL</strong></sub></td>
+<td align="center" width="25%"><sub><strong>SOFT SKILLS</strong></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top">
 
-### <sub>IEUK 2026 — Technology & Engineering Stream · Bright Network</sub>
-Completed employer-led sessions from organisations including Google, Kier, Arup, Lloyds Banking Group, and GCHQ. Designed wireframes and a pitch deck for an AI-powered grocery-inventory and recipe-generation feature, and produced a PDR extract including user stories, acceptance criteria, and KPIs.
-
-<br>
-
-### <sub>ELEvate — Grand Challenges 2026, Final Showcase · University of Exeter</sub>
-Selected for the final showcase across all Education Innovation subgroups. Worked in a multidisciplinary team to research and design a concept improving how feedback is delivered to students. Designed a prototype for a university-wide office-hours booking system.
-
-<br>
-
-### <sub>Summer Intern · Whitestein Technologies</sub>
-Participated in daily scrum meetings, reviewed and improved RESTful API code and documentation, and researched and wrote internal best-practice guidelines for API development.
-
-</div>
-
-<br>
-
-## `projects`
-
-<div align="center">
-
-### <sub>[saucedemo-playwright-tests](https://github.com/livi514/saucedemo-playwright-tests)</sub>
-End-to-end UI test suite with cross-platform CI matrix and scheduled runs  
-`Python · pytest · Playwright · GitHub Actions`
-
-<br>
-
-### <sub>[jsonplaceholder-api-tests](https://github.com/livi514/jsonplaceholder-api-tests)</sub>
-API test suite covering boundary value analysis against a live public API  
-`Python · pytest · requests`
-
-<br>
-
-### <sub>[QA Portfolio](https://github.com/livi514/QA-portfolio)</sub>
-Central portfolio documenting CI/CD pipeline improvements and testing methodology  
-`Python · GitHub Actions`
-
-<br>
-
-### <sub>[Team Project: Food Bundle Marketplace](https://github.com/BrianStadnicki/COM2020-team-project)</sub>
-Led QA for a Django-based online marketplace  
-`Python · Django`
-
-</div>
-
-<br>
-
-## `toolkit`
-
-<div align="center">
-
-### <sub>testing & qa</sub>
-![pytest](https://img.shields.io/badge/pytest-3B4B5C?style=flat-square&logoColor=A8B9C7)
-![Playwright](https://img.shields.io/badge/Playwright-3B4B5C?style=flat-square&logoColor=A8B9C7)
-![JUnit](https://img.shields.io/badge/JUnit-3B4B5C?style=flat-square&logoColor=A8B9C7)
-![Django Testing](https://img.shields.io/badge/Django_Testing-3B4B5C?style=flat-square&logoColor=A8B9C7)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B4B5C?style=flat-square&logoColor=A8B9C7)
+![pytest](https://img.shields.io/badge/pytest-3B4B5C?style=flat-square&logoColor=A8B9C7)<br>
+![Playwright](https://img.shields.io/badge/Playwright-3B4B5C?style=flat-square&logoColor=A8B9C7)<br>
+![JUnit](https://img.shields.io/badge/JUnit-3B4B5C?style=flat-square&logoColor=A8B9C7)<br>
+![Django Testing](https://img.shields.io/badge/Django_Testing-3B4B5C?style=flat-square&logoColor=A8B9C7)<br>
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B4B5C?style=flat-square&logoColor=A8B9C7)<br>
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B4B5C?style=flat-square&logoColor=A8B9C7)
 
-<br><br>
+</td>
+<td align="center" valign="top">
 
-### <sub>languages & frameworks</sub>
-![Python](https://img.shields.io/badge/Python-5C7A99?style=flat-square&logoColor=A8B9C7)
-![Java](https://img.shields.io/badge/Java-5C7A99?style=flat-square&logoColor=A8B9C7)
-![Django](https://img.shields.io/badge/Django-5C7A99?style=flat-square&logoColor=A8B9C7)
+![Python](https://img.shields.io/badge/Python-5C7A99?style=flat-square&logoColor=A8B9C7)<br>
+![Java](https://img.shields.io/badge/Java-5C7A99?style=flat-square&logoColor=A8B9C7)<br>
+![Django](https://img.shields.io/badge/Django-5C7A99?style=flat-square&logoColor=A8B9C7)<br>
 ![Flutter](https://img.shields.io/badge/Flutter-5C7A99?style=flat-square&logoColor=A8B9C7)
 
-<br><br>
+</td>
+<td align="center" valign="top">
 
-### <sub>data & geospatial</sub>
-![GeoPandas](https://img.shields.io/badge/GeoPandas-7A93AC?style=flat-square&logoColor=1B2733)
-![pandas](https://img.shields.io/badge/pandas-7A93AC?style=flat-square&logoColor=1B2733)
-![NumPy](https://img.shields.io/badge/NumPy-7A93AC?style=flat-square&logoColor=1B2733)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-7A93AC?style=flat-square&logoColor=1B2733)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-7A93AC?style=flat-square&logoColor=1B2733)<br>
+![pandas](https://img.shields.io/badge/pandas-7A93AC?style=flat-square&logoColor=1B2733)<br>
+![NumPy](https://img.shields.io/badge/NumPy-7A93AC?style=flat-square&logoColor=1B2733)<br>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-7A93AC?style=flat-square&logoColor=1B2733)<br>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-7A93AC?style=flat-square&logoColor=1B2733)
 
-<br><br>
+</td>
+<td align="center" valign="top">
 
-### <sub>soft skills</sub>
-![Requirements Analysis](https://img.shields.io/badge/Requirements_Analysis-A8B9C7?style=flat-square&logoColor=1B2733)
-![Cross-functional](https://img.shields.io/badge/Cross--functional-A8B9C7?style=flat-square&logoColor=1B2733)
-![Technical Docs](https://img.shields.io/badge/Technical_Docs-A8B9C7?style=flat-square&logoColor=1B2733)
-![Stakeholder Comms](https://img.shields.io/badge/Stakeholder_Comms-A8B9C7?style=flat-square&logoColor=1B2733)
+![Requirements Analysis](https://img.shields.io/badge/Requirements_Analysis-A8B9C7?style=flat-square&logoColor=1B2733)<br>
+![Cross-functional](https://img.shields.io/badge/Cross--functional-A8B9C7?style=flat-square&logoColor=1B2733)<br>
+![Technical Docs](https://img.shields.io/badge/Technical_Docs-A8B9C7?style=flat-square&logoColor=1B2733)<br>
+![Stakeholder Comms](https://img.shields.io/badge/Stakeholder_Comms-A8B9C7?style=flat-square&logoColor=1B2733)<br>
 ![Financial Modelling](https://img.shields.io/badge/Financial_Modelling-A8B9C7?style=flat-square&logoColor=1B2733)
 
+</td>
+</tr>
+</table>
 </div>
 
 <br>
 
-## `github activity`
+## GitHub Activity
 
 <div align="center">
 
@@ -126,43 +106,20 @@ Led QA for a Django-based online marketplace
 
 <br>
 
-## `leadership & volunteering`
+## Leadership and Volunteering
 
-<div align="center">
-
-### <sub>President · Friends of Palestine Society</sub>
-Led committee handover and onboarding; reviewed annual risk assessment.
-
-<br>
-
-### <sub>Treasurer · Hide and Seek Society</sub>
-Completed treasurer training; built a financial model outlining pricing options.
-
-<br>
-
-### <sub>Publicity Officer · Hide and Seek Society</sub>
-Ran social media, designed publicity materials, co-ran events.
+| Dates | Role | Details |
+|:--|:--|:--|
+| Jun 2026 – Present | **President** · Friends of Palestine Society, University of Exeter | Led committee handover and onboarding, and reviewed the society's annual risk assessment ahead of the new academic year |
+| Jun 2026 – Present | **Treasurer** · Hide and Seek Society, University of Exeter | Completed Exeter Guild treasurer training and built a financial model outlining pricing options for the society |
+| Jun 2025 – Jun 2026 | **Publicity Officer** · Hide and Seek Society, University of Exeter | Ran the society's social media presence and designed publicity materials; co-ran events including a pub quiz and murder mystery night |
+| Jun 2025 – Jun 2026 | **Publicity Coordinator** · Friends of Palestine Society, University of Exeter | Managed social media and publicity materials, focusing on campaign awareness and community engagement |
+| Jul 2025 – Aug 2025 | **Charity Shop Volunteer** · The Salvation Army | Delivered customer service and managed stock in a busy retail environment |
+| Nov 2022 – May 2024 | **Computer Science Ambassador** · Bournemouth School for Girls | Supported departmental Open Days, engaging prospective students and parents with course activities |
 
 <br>
 
-### <sub>Publicity Coordinator · Friends of Palestine Society</sub>
-Managed social media and campaign awareness.
-
-<br>
-
-### <sub>Charity Shop Volunteer · The Salvation Army</sub>
-Delivered customer service and managed stock.
-
-<br>
-
-### <sub>Computer Science Ambassador · Bournemouth School for Girls</sub>
-Supported departmental Open Days and engaged prospective students.
-
-</div>
-
-<br>
-
-<div align="center">
+<table align="center"><tr><td align="center">
 
 ```
 Open to Summer 2027 internships
@@ -170,4 +127,4 @@ QA · Software Dev · Data Science · Data Analysis
 Focus: public sector & civil service technology teams
 ```
 
-</div>
+</td></tr></table>
