@@ -16,9 +16,9 @@ I've led QA in team projects: reviewing requirements from a QA perspective befor
 
 Alongside this, I have experience in data science and geospatial analysis, using GeoPandas and Python's data stack (pandas, NumPy, Matplotlib, scikit-learn) to work with public datasets.
 
-During my internship at Whitestein Technologies, I reviewed RESTful API documentation and contributed to best-practice guidelines, work that sharpened how I think about documenting systems clearly for other developers, not just building them.
+During my internship at Whitestein Technologies, I reviewed RESTful API documentation and contributed to best-practice guidelines — work that sharpened how I think about documenting systems clearly for other developers, not just building them.
 
-I'm motivated by creating software that is reliable, accessible, and genuinely helpful, especially in public-sector and community-focused contexts. I enjoy collaborating with others and bringing a quality-driven, user-centred mindset to every project.
+I'm motivated by creating software that is reliable, accessible, and genuinely helpful, especially in public-sector and community-focused contexts, and I enjoy bringing a quality-driven, user-centred mindset to collaborative work.
 
 <br>
 
@@ -48,11 +48,19 @@ I'm motivated by creating software that is reliable, accessible, and genuinely h
 <div align="center">
 <table>
 <tr>
-<td align="center" valign="middle" width="25%">
-
-<sub>**TESTING & QA**</sub>
-
-<hr>
+<td align="center" width="25%"><sub>**TESTING & QA**</sub></td>
+<td align="center" width="25%"><sub>**LANGUAGES AND FRAMEWORKS**</sub></td>
+<td align="center" width="25%"><sub>**DATA & GEOSPATIAL**</sub></td>
+<td align="center" width="25%"><sub>**SOFT SKILLS**</sub></td>
+</tr>
+<tr>
+<td align="center"><hr></td>
+<td align="center"><hr></td>
+<td align="center"><hr></td>
+<td align="center"><hr></td>
+</tr>
+<tr>
+<td align="center" valign="top">
 
 ![pytest](https://img.shields.io/badge/pytest-3B4B5C?style=flat-square&logoColor=A8B9C7)<br>
 ![Playwright](https://img.shields.io/badge/Playwright-3B4B5C?style=flat-square&logoColor=A8B9C7)<br>
@@ -62,11 +70,7 @@ I'm motivated by creating software that is reliable, accessible, and genuinely h
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B4B5C?style=flat-square&logoColor=A8B9C7)
 
 </td>
-<td align="center" valign="middle" width="25%">
-
-<sub>**LANGUAGES AND FLAMEWORKS**</sub>
-
-<hr>
+<td align="center" valign="top">
 
 ![Python](https://img.shields.io/badge/Python-5C7A99?style=flat-square&logoColor=A8B9C7)<br>
 ![Java](https://img.shields.io/badge/Java-5C7A99?style=flat-square&logoColor=A8B9C7)<br>
@@ -74,11 +78,7 @@ I'm motivated by creating software that is reliable, accessible, and genuinely h
 ![Flutter](https://img.shields.io/badge/Flutter-5C7A99?style=flat-square&logoColor=A8B9C7)
 
 </td>
-<td align="center" valign="middle" width="25%">
-
-<sub>**DATA & GEOSPATIAL**</sub>
-
-<hr>
+<td align="center" valign="top">
 
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-7A93AC?style=flat-square&logoColor=1B2733)<br>
 ![pandas](https://img.shields.io/badge/pandas-7A93AC?style=flat-square&logoColor=1B2733)<br>
@@ -87,11 +87,7 @@ I'm motivated by creating software that is reliable, accessible, and genuinely h
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-7A93AC?style=flat-square&logoColor=1B2733)
 
 </td>
-<td align="center" valign="middle" width="25%">
-
-<sub>**SOFT SKILLS**</sub>
-
-<hr>
+<td align="center" valign="top">
 
 ![Requirements Analysis](https://img.shields.io/badge/Requirements_Analysis-A8B9C7?style=flat-square&logoColor=1B2733)<br>
 ![Cross-functional](https://img.shields.io/badge/Cross--functional-A8B9C7?style=flat-square&logoColor=1B2733)<br>
@@ -120,12 +116,12 @@ I'm motivated by creating software that is reliable, accessible, and genuinely h
 
 | Dates | Role | Details |
 |:--|:--|:--|
-| Jun 2026 – Present | **President** · Friends of Palestine Society, University of Exeter | Leading committee handover, onboarding, and risk assessment for the new academic year |
-| Jun 2026 – Present | **Treasurer** · Hide and Seek Society, University of Exeter | Building financial models for society pricing and budgeting |
-| Jun 2025 – Jun 2026 | **Publicity Officer** · Hide and Seek Society, University of Exeter | Designing publicity materials, running events, contributing to event planning and society decisions |
-| Jun 2025 – Jun 2026 | **Publicity Coordinator** · Friends of Palestine Society, University of Exeter | Designing publicity materials, focusing on campaign awareness and community engagement alongside event promotion |
-| Jul 2025 – Aug 2025 | **Charity Shop Volunteer** · The Salvation Army | Delivered friendly customer service and organised stock efficiently |
-| Nov 2022 – May 2024 | **Computer Science Ambassador** · Bournemouth School for Girls | Supporting departmental open days |
+| Jun 2026 – Present | **President** · Friends of Palestine Society, University of Exeter | Led committee handover and onboarding, and reviewed the society's annual risk assessment ahead of the new academic year |
+| Jun 2026 – Present | **Treasurer** · Hide and Seek Society, University of Exeter | Completed Exeter Guild treasurer training and built a financial model outlining pricing options for the society |
+| Jun 2025 – Jun 2026 | **Publicity Officer** · Hide and Seek Society, University of Exeter | Ran the society's social media presence and designed publicity materials; co-ran events including a pub quiz and murder mystery night |
+| Jun 2025 – Jun 2026 | **Publicity Coordinator** · Friends of Palestine Society, University of Exeter | Managed social media and publicity materials, focusing on campaign awareness and community engagement |
+| Jul 2025 – Aug 2025 | **Charity Shop Volunteer** · The Salvation Army | Delivered customer service and managed stock in a busy retail environment |
+| Nov 2022 – May 2024 | **Computer Science Ambassador** · Bournemouth School for Girls | Supported departmental Open Days, engaging prospective students and parents with course activities |
 
 <br>
 
@@ -138,4 +134,3 @@ Focus: public sector & civil service technology teams
 ```
 
 </td></tr></table>
-
