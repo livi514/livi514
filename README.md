@@ -16,7 +16,7 @@ I've led QA in team projects: reviewing requirements from a QA perspective befor
 
 Alongside this, I have experience in data science and geospatial analysis, using GeoPandas and Python's data stack (pandas, NumPy, Matplotlib, scikit-learn) to work with public datasets.
 
-During my internship at Whitestein Technologies, I reviewed RESTful API documentation and contributed to best-practice guidelines — work that sharpened how I think about documenting systems clearly for other developers, not just building them.
+During my internship at Whitestein Technologies, I reviewed RESTful API documentation and contributed to best-practice guidelines, work that sharpened how I think about documenting systems clearly for other developers, not just building them.
 
 I'm motivated by creating software that is reliable, accessible, and genuinely helpful, especially in public-sector and community-focused contexts. I enjoy collaborating with others and bringing a quality-driven, user-centred mindset to every project.
 
@@ -24,35 +24,11 @@ I'm motivated by creating software that is reliable, accessible, and genuinely h
 
 ## Experience
 
-<table>
-<tr>
-<td width="140"><sub><strong>Jun – Jul 2026</strong></sub></td>
-<td>
-
-**IEUK 2026 — Technology & Engineering Stream** · Bright Network · Remote
-Completed employer-led sessions from organisations including Google, Kier, Arup, Lloyds Banking Group, and GCHQ. Designed wireframes and a pitch deck for an AI-powered grocery-inventory and recipe-generation feature, and produced a PDR extract including user stories, acceptance criteria, and KPIs.
-
-</td>
-</tr>
-<tr>
-<td width="140"><sub><strong>Jun – Jul 2026</strong></sub></td>
-<td>
-
-**ELEvate — Grand Challenges 2026, Final Showcase** · University of Exeter · Exeter, England
-Selected for the final showcase across all Education Innovation subgroups. Worked in a multidisciplinary team to research and design a concept improving how feedback is delivered to students, based on analysis of the Exeter Student Guild's 2025 Feedback Report and primary research. Designed a prototype for a university-wide office-hours booking system.
-
-</td>
-</tr>
-<tr>
-<td width="140"><sub><strong>Sep – Oct 2025</strong></sub></td>
-<td>
-
-**Summer Intern** · Whitestein Technologies · Bratislava, Slovakia
-Participated in daily scrum meetings, reviewed and improved RESTful API code and documentation, and researched and wrote internal best-practice guidelines for API development.
-
-</td>
-</tr>
-</table>
+| Dates | Role | Details |
+|:--|:--|:--|
+| Jun 2026 | **IEUK 2026 — Technology & Engineering Stream** · Bright Network · Remote | Completed employer-led sessions from organisations including Google, Kier, Arup, Lloyds Banking Group, and GCHQ. Designed wireframes and a pitch deck for an AI-powered grocery-inventory and recipe-generation feature, and produced a PDR extract including user stories, acceptance criteria, and KPIs. |
+| Jun 2026 | **ELEvate — Grand Challenges 2026, Final Showcase** · University of Exeter · Exeter, England | Selected for the final showcase across all Education Innovation subgroups. Worked in a multidisciplinary team to research and design a concept improving how feedback is delivered to students, based on analysis of the Exeter Student Guild's 2025 Feedback Report and primary research. Designed a prototype for a university-wide office-hours booking system. |
+| Sep 2025 | **Summer Intern** · Whitestein Technologies · Bratislava, Slovakia | Participated in daily scrum meetings, reviewed and improved RESTful API code and documentation, and researched and wrote internal best-practice guidelines for API development. |
 
 <br>
 
@@ -69,71 +45,72 @@ Participated in daily scrum meetings, reviewed and improved RESTful API code and
 
 ## Toolkit
 
+<div align="center">
 <table>
 <tr>
-<td valign="top" width="50%">
+<td align="center" valign="top" width="25%">
 
-**Testing & QA**
+<sub>**TESTING & QA**</sub>
 
-![pytest](https://img.shields.io/badge/pytest-3B4B5C?style=flat-square&logoColor=A8B9C7)
-![Playwright](https://img.shields.io/badge/Playwright-3B4B5C?style=flat-square&logoColor=A8B9C7)
-![JUnit](https://img.shields.io/badge/JUnit-3B4B5C?style=flat-square&logoColor=A8B9C7)
-![Django Testing Framework](https://img.shields.io/badge/Django_Testing_Framework-3B4B5C?style=flat-square&logoColor=A8B9C7)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B4B5C?style=flat-square&logoColor=A8B9C7)
+<hr>
+
+![pytest](https://img.shields.io/badge/pytest-3B4B5C?style=flat-square&logoColor=A8B9C7)<br>
+![Playwright](https://img.shields.io/badge/Playwright-3B4B5C?style=flat-square&logoColor=A8B9C7)<br>
+![JUnit](https://img.shields.io/badge/JUnit-3B4B5C?style=flat-square&logoColor=A8B9C7)<br>
+![Django Testing](https://img.shields.io/badge/Django_Testing-3B4B5C?style=flat-square&logoColor=A8B9C7)<br>
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B4B5C?style=flat-square&logoColor=A8B9C7)<br>
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B4B5C?style=flat-square&logoColor=A8B9C7)
 
-**Languages**
+</td>
+<td align="center" valign="top" width="25%">
 
-![Python](https://img.shields.io/badge/Python-5C7A99?style=flat-square&logoColor=A8B9C7)
-![Java](https://img.shields.io/badge/Java-5C7A99?style=flat-square&logoColor=A8B9C7)
-![Django](https://img.shields.io/badge/Django-5C7A99?style=flat-square&logoColor=A8B9C7)
+<sub>**LANGUAGES**</sub>
+
+<hr>
+
+![Python](https://img.shields.io/badge/Python-5C7A99?style=flat-square&logoColor=A8B9C7)<br>
+![Java](https://img.shields.io/badge/Java-5C7A99?style=flat-square&logoColor=A8B9C7)<br>
+![Django](https://img.shields.io/badge/Django-5C7A99?style=flat-square&logoColor=A8B9C7)<br>
 ![Flutter](https://img.shields.io/badge/Flutter-5C7A99?style=flat-square&logoColor=A8B9C7)
 
 </td>
-<td valign="top" width="50%">
+<td align="center" valign="top" width="25%">
 
-**Data & Geospatial**
+<sub>**DATA & GEOSPATIAL**</sub>
 
-![GeoPandas](https://img.shields.io/badge/GeoPandas-7A93AC?style=flat-square&logoColor=1B2733)
-![pandas](https://img.shields.io/badge/pandas-7A93AC?style=flat-square&logoColor=1B2733)
-![NumPy](https://img.shields.io/badge/NumPy-7A93AC?style=flat-square&logoColor=1B2733)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-7A93AC?style=flat-square&logoColor=1B2733)
+<hr>
+
+![GeoPandas](https://img.shields.io/badge/GeoPandas-7A93AC?style=flat-square&logoColor=1B2733)<br>
+![pandas](https://img.shields.io/badge/pandas-7A93AC?style=flat-square&logoColor=1B2733)<br>
+![NumPy](https://img.shields.io/badge/NumPy-7A93AC?style=flat-square&logoColor=1B2733)<br>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-7A93AC?style=flat-square&logoColor=1B2733)<br>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-7A93AC?style=flat-square&logoColor=1B2733)
 
-**Soft Skills**
+</td>
+<td align="center" valign="top" width="25%">
 
-![Requirements Analysis](https://img.shields.io/badge/Requirements_Analysis-A8B9C7?style=flat-square&logoColor=1B2733)
-![Cross-functional Collaboration](https://img.shields.io/badge/Cross--functional_Collaboration-A8B9C7?style=flat-square&logoColor=1B2733)
-![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-A8B9C7?style=flat-square&logoColor=1B2733)
-![Stakeholder Communication](https://img.shields.io/badge/Stakeholder_Communication-A8B9C7?style=flat-square&logoColor=1B2733)
+<sub>**SOFT SKILLS**</sub>
+
+<hr>
+
+![Requirements Analysis](https://img.shields.io/badge/Requirements_Analysis-A8B9C7?style=flat-square&logoColor=1B2733)<br>
+![Cross-functional](https://img.shields.io/badge/Cross--functional-A8B9C7?style=flat-square&logoColor=1B2733)<br>
+![Technical Docs](https://img.shields.io/badge/Technical_Docs-A8B9C7?style=flat-square&logoColor=1B2733)<br>
+![Stakeholder Comms](https://img.shields.io/badge/Stakeholder_Comms-A8B9C7?style=flat-square&logoColor=1B2733)<br>
 ![Financial Modelling](https://img.shields.io/badge/Financial_Modelling-A8B9C7?style=flat-square&logoColor=1B2733)
 
 </td>
 </tr>
 </table>
+</div>
 
 <br>
 
 ## GitHub Activity
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=livi514&show_icons=true&theme=transparent&hide_border=true&title_color=3B4B5C&text_color=5C7A99&icon_color=7A93AC" width="100%"/>
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livi514&layout=pie&theme=transparent&hide_border=true&title_color=3B4B5C&text_color=5C7A99" width="100%"/>
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=livi514&theme=transparent&hide_border=true&background=00000000&stroke=7A93AC&ring=5C7A99&fire=5C7A99&currStreakLabel=3B4B5C&sideLabels=3B4B5C&dates=A8B9C7" height="200"/>
+<img src="https://streak-stats.demolab.com/?user=livi514&theme=transparent&hide_border=true&background=00000000&stroke=7A93AC&ring=5C7A99&fire=5C7A99&currStreakLabel=3B4B5C&sideLabels=3B4B5C&dates=A8B9C7" height="300"/>
 
 </div>
 
@@ -141,18 +118,18 @@ Participated in daily scrum meetings, reviewed and improved RESTful API code and
 
 ## Leadership and Volunteering
 
-| Role | Organisation | Dates | Details |
-|:--|:--|:--|:--|
-| President | Friends of Palestine Society, University of Exeter | Jun 2026 – Present | Leading committee handover, onboarding, and risk assessment for the new academic year |
-| Treasurer | Hide and Seek Society, University of Exeter | Jun 2026 – Present | Building financial models for society pricing and budgeting |
-| Publicity Officer | Hide and Seek Society, University of Exeter | Jun 2025 – Jun 2026 | Designing publicity materials, running events, contributing to event planning and society decisions |
-| Publicity Coordinator | Friends of Palestine Society, University of Exeter | Jun 2025 – Jun 2026 | Designing publicity materials, focusing on campaign awareness and community engagement alongside event promotion |
-| Charity Shop Volunteer | The Salvation Army | Jul 2025 – Aug 2025 | Delivered friendly customer service and organised stock efficiently |
-| Computer Science Ambassador | Bournemouth School for Girls | Nov 2022 – May 2024 | Supporting departmental open days |
+| Dates | Role | Details |
+|:--|:--|:--|
+| Jun 2026 – Present | **President** · Friends of Palestine Society, University of Exeter | Leading committee handover, onboarding, and risk assessment for the new academic year |
+| Jun 2026 – Present | **Treasurer** · Hide and Seek Society, University of Exeter | Building financial models for society pricing and budgeting |
+| Jun 2025 – Jun 2026 | **Publicity Officer** · Hide and Seek Society, University of Exeter | Designing publicity materials, running events, contributing to event planning and society decisions |
+| Jun 2025 – Jun 2026 | **Publicity Coordinator** · Friends of Palestine Society, University of Exeter | Designing publicity materials, focusing on campaign awareness and community engagement alongside event promotion |
+| Jul 2025 – Aug 2025 | **Charity Shop Volunteer** · The Salvation Army | Delivered friendly customer service and organised stock efficiently |
+| Nov 2022 – May 2024 | **Computer Science Ambassador** · Bournemouth School for Girls | Supporting departmental open days |
 
 <br>
 
-<div align="center">
+<table align="center"><tr><td align="center">
 
 ```
 Open to Summer 2027 internships
@@ -160,4 +137,4 @@ QA · Software Dev · Data Science · Data Analysis
 Focus: public sector & civil service technology teams
 ```
 
-</div>
+</td></tr></table>
