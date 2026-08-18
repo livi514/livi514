@@ -48,16 +48,16 @@ I'm motivated by creating software that is reliable, accessible, and genuinely h
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%"><sub>**TESTING & QA**</sub></td>
-<td align="center" width="25%"><sub>**LANGUAGES AND FRAMEWORKS**</sub></td>
-<td align="center" width="25%"><sub>**DATA & GEOSPATIAL**</sub></td>
-<td align="center" width="25%"><sub>**SOFT SKILLS**</sub></td>
+<td align="center" width="25%"><sub><strong>TESTING & QA</strong></sub></td>
+<td align="center" width="25%"><sub><strong>LANGUAGES AND FRAMEWORKS</strong></sub></td>
+<td align="center" width="25%"><sub><strong>DATA & GEOSPATIAL</strong></sub></td>
+<td align="center" width="25%"><sub><strong>SOFT SKILLS</strong></sub></td>
 </tr>
 <tr>
-<td align="center"><hr></td>
-<td align="center"><hr></td>
-<td align="center"><hr></td>
-<td align="center"><hr></td>
+<td align="center"><hr style="margin:2px 0"></td>
+<td align="center"><hr style="margin:2px 0"></td>
+<td align="center"><hr style="margin:2px 0"></td>
+<td align="center"><hr style="margin:2px 0"></td>
 </tr>
 <tr>
 <td align="center" valign="top">
@@ -115,7 +115,6 @@ I'm motivated by creating software that is reliable, accessible, and genuinely h
 ## Leadership and Volunteering
 
 | Dates | Role | Details |
-|:--|:--|:--|
 | Jun 2026 – Present | **President** · Friends of Palestine Society, University of Exeter | Led committee handover and onboarding, and reviewed the society's annual risk assessment ahead of the new academic year |
 | Jun 2026 – Present | **Treasurer** · Hide and Seek Society, University of Exeter | Completed Exeter Guild treasurer training and built a financial model outlining pricing options for the society |
 | Jun 2025 – Jun 2026 | **Publicity Officer** · Hide and Seek Society, University of Exeter | Ran the society's social media presence and designed publicity materials; co-ran events including a pub quiz and murder mystery night |
@@ -134,3 +133,4 @@ Focus: public sector & civil service technology teams
 ```
 
 </td></tr></table>
+
