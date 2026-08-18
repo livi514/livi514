@@ -48,7 +48,7 @@ I'm motivated by creating software that is reliable, accessible, and genuinely h
 <div align="center">
 <table>
 <tr>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="middle" width="25%">
 
 <sub>**TESTING & QA**</sub>
 
@@ -62,7 +62,7 @@ I'm motivated by creating software that is reliable, accessible, and genuinely h
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B4B5C?style=flat-square&logoColor=A8B9C7)
 
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="middle" width="25%">
 
 <sub>**LANGUAGES**</sub>
 
@@ -74,9 +74,9 @@ I'm motivated by creating software that is reliable, accessible, and genuinely h
 ![Flutter](https://img.shields.io/badge/Flutter-5C7A99?style=flat-square&logoColor=A8B9C7)
 
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="middle" width="25%">
 
-<sub>**DATA & GEOSPATIAL**</sub>
+<sub>**DATA & GEO**</sub>
 
 <hr>
 
@@ -87,7 +87,7 @@ I'm motivated by creating software that is reliable, accessible, and genuinely h
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-7A93AC?style=flat-square&logoColor=1B2733)
 
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="middle" width="25%">
 
 <sub>**SOFT SKILLS**</sub>
 
@@ -138,3 +138,4 @@ Focus: public sector & civil service technology teams
 ```
 
 </td></tr></table>
+
