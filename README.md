@@ -64,7 +64,7 @@ I'm motivated by creating software that is reliable, accessible, and genuinely h
 </td>
 <td align="center" valign="middle" width="25%">
 
-<sub>**LANGUAGES**</sub>
+<sub>**LANGUAGES AND FLAMEWORKS**</sub>
 
 <hr>
 
@@ -76,7 +76,7 @@ I'm motivated by creating software that is reliable, accessible, and genuinely h
 </td>
 <td align="center" valign="middle" width="25%">
 
-<sub>**DATA & GEO**</sub>
+<sub>**DATA & GEOSPATIAL**</sub>
 
 <hr>
 
