@@ -1,6 +1,6 @@
 <div align="center">
 
-![alt text](image.png)
+![alt text](header.png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3B4B5C?style=for-the-badge&logo=linkedin&logoColor=A8B9C7)](https://www.linkedin.com/in/l%C3%ADvia-b%C3%A1nyai-0461b8287/)
 [![Email](https://img.shields.io/badge/Email-5C7A99?style=for-the-badge&logo=gmail&logoColor=A8B9C7)](mailto:livia5banyai@gmail.com)
