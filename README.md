@@ -49,7 +49,7 @@ Participated in daily scrum meetings, reviewed and improved RESTful API code and
 
 <br>
 
-## `toolkit`
+## Toolkit
 
 ```
 testing & qa        pytest · Playwright · JUnit · Django Testing Framework · GitHub Actions · CI/CD
